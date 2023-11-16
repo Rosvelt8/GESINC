@@ -1,0 +1,3 @@
+<footer>
+LA MEILLEURE APPLICATION DU SIECLE
+</footer>
